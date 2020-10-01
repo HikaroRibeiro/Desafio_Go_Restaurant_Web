@@ -5,7 +5,7 @@
       "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
       "price": "19.90",
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://chefcristinahaaland.com.br/wp-content/uploads/2019/12/chef-cristina-haaland-massas-risotos-Linguine-com-camarao-abobrinha-e-cenoura.jpg",
+      "name": "Linguini com camarão",
+      "price": "59.99",
+      "description": "Camarão com macarrão tipo Linguini",
+      "available": false,
+      "id": 4
     }
   ]
 }
